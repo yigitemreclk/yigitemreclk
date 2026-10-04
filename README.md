@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Development;React+%26+Node.js+Ecosystem;Cyber+Security+%26+Network" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Development;React+%26+Node.js+Ecosystem;Java+%26+Spring+Boot;Cyber+Security+%26+Network" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,6 +10,7 @@
 ### 👨‍💻 Hakkımda
 - 🚀 Modern ve ölçeklenebilir web uygulamaları geliştiriyorum.
 - 📚 **Front-End:** HTML5, CSS3, JavaScript (ES6+), React
+- ⚙️ **Back-End:** Java, Spring Boot, Node.js
 - 🛡️ **Siber Güvenlik:** Ağ güvenliği, sistem mimarileri ve zafiyet analizleri üzerine kendimi geliştiriyorum.
 - 🎯 **Hedefim:** Temiz kod (Clean Code) ve güvenli mimari (Secure Architecture) standartlarında projeler üretmek.
 
@@ -25,6 +26,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Backend & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
